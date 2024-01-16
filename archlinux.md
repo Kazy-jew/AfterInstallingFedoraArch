@@ -56,8 +56,14 @@ __2022-10-10:__
 扩展网站如果报错的话需要安装一个`gnome-browser-connector`
 
 
+#### 1.2.5 字体
+参考：https://www.reddit.com/r/gnome/comments/z4cex4/comment/ixqkt42/
+
+#### 1.2.6 其他
+安装vscodium时自定义的快捷键被覆盖：
 """
-You probably somehow changed the default handler for directories to VS Code. Try xdg-mime query default inode/directory to see the current handler and if that's not Nautilus you can run xdg-mime default org.gnome.Nautilus.desktop inode/directory to change that.
+You probably somehow changed the default handler for directories to VS Code. Try `xdg-mime query default inode/directory` to see the current handler and if that's not Nautilus you can run `xdg-mime default org.gnome.Nautilus.desktop inode/directory` to change that.
 """
-https://www.reddit.com/r/gnome/comments/z4cex4/comment/ixqkt42/
+参考：https://www.reddit.com/r/gnome/comments/z4cex4/comment/ixqkt42/
+
 

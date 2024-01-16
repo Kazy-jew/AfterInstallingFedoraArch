@@ -55,3 +55,9 @@ __2022-10-10:__
 #### 1.2.4 Gnome扩展
 扩展网站如果报错的话需要安装一个`gnome-browser-connector`
 
+
+"""
+You probably somehow changed the default handler for directories to VS Code. Try xdg-mime query default inode/directory to see the current handler and if that's not Nautilus you can run xdg-mime default org.gnome.Nautilus.desktop inode/directory to change that.
+"""
+https://www.reddit.com/r/gnome/comments/z4cex4/comment/ixqkt42/
+

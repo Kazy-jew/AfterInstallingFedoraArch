@@ -57,7 +57,7 @@ __2022-10-10:__
 
 
 #### 1.2.5 字体
-参考：https://www.reddit.com/r/gnome/comments/z4cex4/comment/ixqkt42/
+参考：https://catcat.cc/post/2020-10-31/
 
 #### 1.2.6 其他
 安装vscodium时自定义的快捷键被覆盖：

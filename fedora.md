@@ -14,6 +14,19 @@ from urllib.request import getproxies
 proxy=http://127.0.0.1:7890
 fastestmirror=1
 ```
+
+## Common
+更新feodra
+`dnf update --refresh`
+安装系统更新插件
+`dnf install dnf-plugin-system-upgrade`
+升级到对应版本
+`sudo dnf system-upgrade download --releasever={version}`
+`dnf system-upgrade reboot`
+升级完后清除升级缓存
+`dnf clean packages`
+
+
 ## 1.设置键盘快捷键
 ### 1.1 nautilus
  `/bin/nautilus`

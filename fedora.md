@@ -142,12 +142,14 @@ fc-cache -f -v
 [Net speed Simplified](https://extensions.gnome.org/extension/3724/net-speed-simplified/)
 [Transparent Top Bar (Adjustable transparency)](https://extensions.gnome.org/extension/3960/transparent-top-bar-adjustable-transparency/)
 [Transparent Window Moving](https://extensions.gnome.org/extension/1446/transparent-window-moving/)
-
+[Vitals](https://extensions.gnome.org/extension/1460/vitals/)
 [just perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
-[open weather](https://extensions.gnome.org/extension/750/openweather/)
+[OpenWeather Refined](https://extensions.gnome.org/extension/6655/openweather/)
+[User Avatar In Quick Settings](https://extensions.gnome.org/extension/5506/user-avatar-in-quick-settings/)
 
 
 -----------------------------------备份的分割线----------------------
+[open weather](https://extensions.gnome.org/extension/750/openweather/)
 [Dash to Dock for COSMIC](https://extensions.gnome.org/extension/5004/dash-to-dock-for-cosmic/)
 [shell configurator](https://extensions.gnome.org/extension/4254/shell-configurator/)
 [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)

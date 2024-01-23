@@ -18,7 +18,13 @@ pip 获取的是系统环境变量，node和git为单独设置
 
 #### windows
 
-环境变量里配置
+环境变量里配置<font style="color:red">⸸</font>
+```
+HTTPS_PROXY=http://127.0.0.1:7890
+HTTP_PROXY=http://127.0.0.1:7890
+NO_PROXY=127.0.0.1,localhost
+```
+<font style="color:red">⸸</font><font size=2>1.`HTTP_PROXY` & `HTTPS_PROXY`代理协议都设为http是因为代理软件不支持https;<br />&nbsp;&nbsp;2.`NO_PROXY`是为了访问本地地址时绕过代理，没有这个值会导致一些程序的访问出现问题，具体如cmd中用curl调用本地起的服务的api调用不到，以及前端框架angular/react页面在浏览器中打不开等等</font>
 
 ### 2.git
 
